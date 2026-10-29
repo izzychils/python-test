@@ -1,6 +1,6 @@
 # Bincom ICT: Python Basic Developer Test
 
-Hello! 👋 Thank you for taking the time to review my submission.
+Thank you for taking the time to review my submission.
 
 This repository contains my solution to the **Bincom ICT Python Developer Test**, covering data analysis, statistical computations, PostgreSQL integration, recursive algorithms, and more.
 
