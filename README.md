@@ -1,4 +1,4 @@
-# Bincom ICT — Python Basic Developer Test
+# Bincom ICT: Python Basic Developer Test
 
 Hello! 👋 Thank you for taking the time to review my submission.
 
